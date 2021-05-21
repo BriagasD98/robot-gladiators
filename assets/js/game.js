@@ -1,4 +1,4 @@
-/* GAME FUNCTIONS */
+/* ROBOT GLADIATORS GAME FUNCTIONS */
 
 // function to generate a random numeric value
 var randomNumber = function(min, max) {
